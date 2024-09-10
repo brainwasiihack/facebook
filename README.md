@@ -12,9 +12,7 @@ Mechanize module (pip install mechanize)
 Usage
 To use the tool, follow these steps:
 
-Clone the repository:
-git clone https://github.com/your_username/facebook-hack-tool.git cd facebook-hack-tool
-
+Clone the repository:git clone https://github.com/brainwasiihack/facebook-hack-.py.git cd facebook-hack-tool
 Run the script:
 python facebook_hack.py [OPTIONS...]
 
